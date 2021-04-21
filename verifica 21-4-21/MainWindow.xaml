@@ -7,6 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="lbl_letteraCheCambia" Content="" HorizontalAlignment="Left" Height="29" Margin="206,59,0,0" VerticalAlignment="Top" Width="68"/>
+        <Button x:Name="btn_estrai" Content="estrai" HorizontalAlignment="Left" Height="29" Margin="310,59,0,0" VerticalAlignment="Top" Width="65" Click="btn_estrai_Click"/>
+        <Label x:Name="lbl_stringaCheVieneComposta" Content="" HorizontalAlignment="Left" Height="32" Margin="206,136,0,0" VerticalAlignment="Top" Width="111"/>
+        <ListBox x:Name="lst_listaDiParole" HorizontalAlignment="Left" Height="175" Margin="531,59,0,0" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="lbl_paroleScritte" Content="Parole scritte:" HorizontalAlignment="Left" Height="28" Margin="531,26,0,0" VerticalAlignment="Top" Width="137"/>
+        <Label Content="Lunghezza della parola che si vuole scrivere:" HorizontalAlignment="Left" Height="28" Margin="21,10,0,0" VerticalAlignment="Top" Width="242"/>
+        <TextBox x:Name="txt_lunghezzaParola" HorizontalAlignment="Left" Height="24" Margin="264,14,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="53" TextChanged="txt_lunghezzaParola_TextChanged"/>
+        <Button x:Name="btn_start" Content="Inizia!" HorizontalAlignment="Left" Height="24" Margin="334,14,0,0" VerticalAlignment="Top" Width="60" Click="btn_start_Click"/>
+
     </Grid>
 </Window>

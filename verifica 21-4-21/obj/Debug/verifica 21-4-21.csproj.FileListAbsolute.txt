@@ -1,0 +1,15 @@
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\bin\Debug\verifica 21-4-21.exe.config
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\bin\Debug\verifica 21-4-21.exe
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\bin\Debug\verifica 21-4-21.pdb
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.csprojAssemblyReference.cache
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\MainWindow.g.cs
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\App.g.cs
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21_MarkupCompile.cache
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21_MarkupCompile.lref
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\MainWindow.baml
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.g.resources
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica_21_4_21.Properties.Resources.resources
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.csproj.GenerateResource.cache
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.csproj.CoreCompileInputs.cache
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.exe
+C:\Users\fabio.fattori\Desktop\verifica 21-4-21\verifica 21-4-21\obj\Debug\verifica 21-4-21.pdb
